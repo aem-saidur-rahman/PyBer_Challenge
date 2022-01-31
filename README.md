@@ -13,7 +13,9 @@ The analysis is based on the following points among the different city types:
 
 ### Summary Table
 
-!
+<p align="center">
+  <img src="https://github.com/aem-saidur-rahman/PyBer_Challenge/blob/main/analysis/Table.png">
+</p>
 
 By reviewing the summary we can see that there are several key findings including: 
 - Urban cities have the highest ridership demand while rural cities have the least.
@@ -26,41 +28,48 @@ By reviewing the summary we can see that there are several key findings includin
 ### The percentage of total rides by city type
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/68669675/91503794-04ffdb00-e891-11ea-9f18-f50df637ddd4.png">
+  <img src="https://github.com/aem-saidur-rahman/PyBer_Challenge/blob/main/analysis/%25rides.png">
 </p>
+
 More than 2/3 of the total rides in 2019 were realized in urban cities. Suburban areas count for over 26% of the total rides and rural cities have the smallest proportion with only for 5.3%.<br/><br/>
 
 ### The percentage of total drivers by city type
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/68669675/91503795-05987180-e891-11ea-91ea-4bc35338b4e1.png">
+  <img src="https://github.com/aem-saidur-rahman/PyBer_Challenge/blob/main/analysis/%25drivers.png">
 </p>
+
 Urban cities drivers were by far in majority with 80.9% of the company's drivers force in 2019. Surbuban and rural drivers were respectively 26.3% and 5.3% of the total drivers in 2019.<br/><br/>
 We notice the very small proportion of drivers in rural areas.<br/><br/>
 
 ### The percentage of total fares by city type
 
 <p align="center">
- 
+  <img src="https://github.com/aem-saidur-rahman/PyBer_Challenge/blob/main/analysis/%25fare.png">
 </p>
+
 Here again we notice the influence of urban areas in the company's business model. Close to 63% of the 2019 total fares was realized in urban cities. Surbuban activity counted for about 31% and the smallest proportion was in rural neighborhoods.<br/><br/>
 
 ### The average fare per ride and driver by city type
 The following bubble chart shows the relationship between the average fare price and the number of rides and drivers categorized by the different city types.
 
 <p align="center">
+  <img src="https://github.com/aem-saidur-rahman/PyBer_Challenge/blob/main/analysis/bubble.png">
+</p>
   
 We notice that the average fare tends to decrease as the total number of rides per city increases. This is a negative relationship.<br/>
 As per the driver count per city, it appears that the bubbles get larger when the average fare decreases and/or when the total number of rides increases.<br/>
-Rural areas have the least number of drivers and rides per city and its fare ranges from high to middle prices. It is difficult to see the relation between those parameters. Other inputs like population size, ride distances, and cellphone coverage would be interesting to analyze to determine any correlation.<br/><br/>
+Rural areas have the least number of drivers and rides per city and its fare ranges from high to middle prices. It is difficult to see the relation between those parameters. Other inputs like population size, ride distances,cellphone coverage would be interesting to analyze to determine any correlation.<br/><br/>
 
 ### The total fare by city type
 The following line chart shows the total fare by city type from January to April 2019.
 
 <p align="center">
- 
+  <img src="https://github.com/aem-saidur-rahman/PyBer_Challenge/blob/main/analysis/Pyber_fare_summary.png">
 </p>
-The urban weekly total fare is around 9 and 2.25 times higher than rural and surburban ones respectively.<br/><br/>
+
+
+<br/><br/>
 
 ## Summary
 
